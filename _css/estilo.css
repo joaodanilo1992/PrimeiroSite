@@ -4,6 +4,7 @@
     font-family: 'FonteLogo';
     src: url("../_fonts/bubblegum-sans-regular.otf");
 }
+
 body {
     background-color: #ddd;
     color: rgba(0, 0, 0, 1);
