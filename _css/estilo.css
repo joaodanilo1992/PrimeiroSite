@@ -250,3 +250,19 @@ li#agradecimento {
     background-color: rgba(87, 85, 175, 0.733);
     margin-left: 200px;    
 }
+
+video#filme01 {
+    display: block;
+    position: relative;
+    
+    margin-top: -7px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+video#filme02 {
+    display: block;
+    position: relative;
+    
+    width: 350px;
+}
